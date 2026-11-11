@@ -1,0 +1,15 @@
+T1 解释器
+  python = 3.14.2
+  exe    = C:\Users\deng\WorkBuddy\2026-11-10-18-49-11\env-check\.venv\Scripts\python.exe
+T2 库能否加载
+  PIL.Image = OK
+  mss = OK
+  PySide6.QtWidgets = OK
+T3 取一帧画面
+  真实截屏 = OK  尺寸 = (2560, 1440)
+  交出物 = screen.png  631465 bytes
+T4 窗口对象能否创建（不弹出）
+  QApplication = OK  平台 = offscreen
+T5 读回图片
+  Pillow verify = OK
+RESULT = PASS
